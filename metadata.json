@@ -1,0 +1,6 @@
+{
+  "name": "ClipPilot",
+  "description": "AI video clipping workspace for turning long-form videos into short-form clips for TikTok, Instagram Reels, and YouTube Shorts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
